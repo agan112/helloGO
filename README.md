@@ -1,0 +1,5 @@
+
+# helloGO
+$ go build
+
+./hello
